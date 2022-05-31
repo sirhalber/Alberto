@@ -21,4 +21,14 @@ Here is a list of the certificates obtained during my transitioning to data anal
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/7V8CNAXWN8MK) (April 2022) (Coursera - Google)
 - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/DPPLUU7CXUJU) (April 2022) (Coursera - Google)
 - [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/certificate/B5J2UAAW3YMJ) (April 2022) (Coursera - Google)
+- [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/3WXZ29D8HV7A) (April 2022) (Coursera - Google)
+- [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/2B9W8966G627) (April 2022) (Coursera - Google)
+- [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/B5TZBBYZWP6Y) (April 2022) (Coursera - Google)
+- [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/C4UND94SULSK) (April 2022) (Coursera - Google)
+- [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/LJ68NFETXELJ) (April 2022) (Coursera - Google)
+- [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/TB3T3MC4Q3DV) (April 2022) (Coursera - Google)
+
+## Contacts
+- LinkedIn: (https://www.linkedin.com/in/alberto-figueroba-375034213)
+- E-mail: afigue89@gmail.com
 
