@@ -18,6 +18,10 @@ This is a repository to showcase skills, share projects and track my progress in
 **Repository:** Check the repository for SQL queries ---> [go to repo..](https://github.com/sirhalber/R_learning)  
 **Status:** In progress. 
 
+### Tableau Vizzes
+**Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/alberto.figueroba.s.nchez#!/?newProfile=&activeTab=0)  
+**Status:** In progress. 
+
 ## Certificates
 Here is a list of certificates obtained during the process to improve as data analyst:
 - [BI Dashboards with Tableau](https://www.codecademy.com/profiles/albertoFigueroba0916976652/certificates/050d7cf465567fdd0c9abb1fbf20e269) (May 2022) (Codeacademy)
