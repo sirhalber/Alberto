@@ -20,6 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Certificates
 Here is a list of the certificates obtained during my transitioning to data analyst:
+- [Learn SQL](https://www.codecademy.com/profiles/albertoFigueroba0916976652/certificates/042a4e5884e3eb6ea1f2a12be6abb851) (May 2022) (Codeacademy)
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/7V8CNAXWN8MK) (April 2022) (Coursera - Google)
 - [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/DPPLUU7CXUJU) (April 2022) (Coursera - Google)
 - [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/certificate/B5J2UAAW3YMJ) (April 2022) (Coursera - Google)
