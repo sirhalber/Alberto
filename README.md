@@ -33,6 +33,6 @@ Here is a list of the certificates obtained during my transitioning to data anal
 - [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/TB3T3MC4Q3DV) (April 2022) (Coursera - Google)
 
 ## Contacts
-- LinkedIn: (https://www.linkedin.com/in/alberto-figueroba-375034213)
+- LinkedIn: [@afigueroba](https://www.linkedin.com/in/alberto-figueroba-375034213)
 - E-mail: afigue89@gmail.com
 
