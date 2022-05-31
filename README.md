@@ -6,6 +6,8 @@ I am Alberto. I have a PhD and a Mater's in Computational and Theoretical Chemis
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics.
 
+## Portfolio Projects
+
 ### Learning SQL
 **Description:** SQL queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-sql)      
 **Repository:** Check the repository for SQL queries ---> [go to repo..](https://github.com/sirhalber/sql_learning)  
