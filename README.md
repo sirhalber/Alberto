@@ -15,7 +15,12 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ### R
 **Description:** R queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-r)      
-**Repository:** Check the repository for SQL queries ---> [go to repo..](https://github.com/sirhalber/R_learning)  
+**Repository:** Check the repository for R queries ---> [go to repo..](https://github.com/sirhalber/R_learning)  
+**Status:** In progress. 
+
+### Python
+**Description:** Python queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-r) and projects      
+**Repository:** Check the repository for Python queries ---> [go to repo..](https://github.com/sirhalber/Python)  
 **Status:** In progress. 
 
 ### Tableau Vizzes
