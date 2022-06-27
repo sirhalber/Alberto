@@ -29,6 +29,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Certificates
 Here is a list of certificates obtained during the process to improve as data analyst:
+- [Data Scientist: Analytics Specialist Career Path](https://www.codecademy.com/profiles/albertoFigueroba0916976652/certificates/5ff882c953c2ed000e17bf1d) (June 2022) (Codeacademy)
 - [Analyze Data with SQL Skill Path](https://www.codecademy.com/profiles/albertoFigueroba0916976652/certificates/5cafb2d937090210d7df3652) (June 2022) (Codeacademy)
 - [Fundamentals of Visualization with Tableau](https://www.coursera.org/account/accomplishments/certificate/R2KNJ75NA8KU) (June 2022) (University of California, Davis)
 - [Learn R Course](https://www.codecademy.com/profiles/albertoFigueroba0916976652/certificates/497d64b859e76f307b65270d130a4603) (June 2022) (Codeacademy)
